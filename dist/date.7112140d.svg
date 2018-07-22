@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3E3A39;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#3E3A39;}
+</style>
+<title>ic_message</title>
+<desc>Created with Sketch.</desc>
+<path class="st0" d="M19.1,21H4.9c-1,0-1.9-0.8-1.9-1.9V4.9C3,3.8,3.8,3,4.9,3h14.3c1,0,1.9,0.8,1.9,1.9v14.3
+	C21,20.2,20.2,21,19.1,21z"/>
+<line class="st0" x1="3.6" y1="8" x2="20.4" y2="8"/>
+<g>
+	<path class="st1" d="M7.6,14.1H7.2c-0.6,0-1.1-0.5-1.1-1.1v-0.4c0-0.6,0.5-1.1,1.1-1.1h0.4c0.6,0,1.1,0.5,1.1,1.1V13
+		C8.7,13.6,8.2,14.1,7.6,14.1z"/>
+	<path class="st1" d="M12.2,14.1h-0.4c-0.6,0-1.1-0.5-1.1-1.1v-0.4c0-0.6,0.5-1.1,1.1-1.1h0.4c0.6,0,1.1,0.5,1.1,1.1V13
+		C13.3,13.6,12.8,14.1,12.2,14.1z"/>
+	<path class="st1" d="M16.8,14.1h-0.4c-0.6,0-1.1-0.5-1.1-1.1v-0.4c0-0.6,0.5-1.1,1.1-1.1h0.4c0.6,0,1.1,0.5,1.1,1.1V13
+		C17.9,13.6,17.4,14.1,16.8,14.1z"/>
+	<path class="st1" d="M7.6,18H7.2c-0.6,0-1.1-0.5-1.1-1.1v-0.4c0-0.6,0.5-1.1,1.1-1.1h0.4c0.6,0,1.1,0.5,1.1,1.1v0.4
+		C8.7,17.5,8.2,18,7.6,18z"/>
+	<path class="st1" d="M12.2,18h-0.4c-0.6,0-1.1-0.5-1.1-1.1v-0.4c0-0.6,0.5-1.1,1.1-1.1h0.4c0.6,0,1.1,0.5,1.1,1.1v0.4
+		C13.3,17.5,12.8,18,12.2,18z"/>
+	<path class="st1" d="M16.8,18h-0.4c-0.6,0-1.1-0.5-1.1-1.1v-0.4c0-0.6,0.5-1.1,1.1-1.1h0.4c0.6,0,1.1,0.5,1.1,1.1v0.4
+		C17.9,17.5,17.4,18,16.8,18z"/>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Nanum Gothic', sans-serif; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit; }
+
+body {
+  background-color: #eee;
+  font-size: 18px;
+  background-size: cover;
+  text-align: center; }
+  body .header {
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    body .header img {
+      height: 30px;
+      width: 30px; }

@@ -1,0 +1,15 @@
+{
+  "name": "clean_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "assets": "^3.0.0",
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.8.1"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
